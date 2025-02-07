@@ -1,4 +1,4 @@
-/*// quiz.js
+// quiz.js
 document.addEventListener('keydown', function (event) {
     if (
         (event.ctrlKey && event.key === 'r') || 
@@ -31,7 +31,7 @@ var checkDevTools = setInterval(function() {
         document.body.style.backgroundColor = "red";
     }
 }, 1000); // Check every second
-*/
+
 const quizData = {
     "circle": [
         {
